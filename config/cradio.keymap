@@ -56,12 +56,12 @@
                 combo_mo_3 {
                     timeout-ms = <75>;
                     key-positions = <30, 31>;
-                    bindings = <&mo 3>
+                    bindings = <&mo 3>;
                 };
                 combo_mo_6 {
                     timeout-ms = <75>;
                     key-positions = <32, 33>;
-                    bindings = <&mo 6>
+                    bindings = <&mo 6>;
                 };
         };
 
