@@ -23,3 +23,15 @@ include:
     shield: cradio_left
   - board: nrfmicro_13
     shield: cradio_right
+  - board: nrfmicro_11
+    shield: cradio_left
+  - board: nrfmicro_11
+    shield: cradio_right
+  - board: nrfmicro_11_flipped
+    shield: cradio_left
+  - board: nrfmicro_11_flipped
+    shield: cradio_right
+  - board: nice_nano_v2
+    shield: cradio_left
+  - board: nice_nano_v2
+    shield: cradio_right
