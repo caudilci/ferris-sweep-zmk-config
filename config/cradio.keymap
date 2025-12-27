@@ -166,7 +166,7 @@
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
         //│trans     │  trans   |          │          │          │   │ CUT     │ PAGE DN  │ PAGE UP  │ END      │  :       │
-            &kp F12    &kp F7    &kp F8    &kp F9    &kp PSCRN          &trans    &trans       &trans       &trans       &trans
+            &kp F12    &kp F7    &kp F8    &kp F9    &kp PSCRN          &BT_SEL 0    &BT_SEL 1       &BT_SEL 2       &BT_SEL 3       &BT_CLR
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │ LEFT     │ DOWN     │ UP       │ RIGHT    │  ;       │
            &kp F11    &kp F4    &kp F5    &kp F6    &kp  SLCK        &trans      &trans &trans &trans &trans
